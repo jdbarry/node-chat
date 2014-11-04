@@ -9,4 +9,4 @@ Originally written by Ryan Dahl, the creator of Node.js.
 
 ## Deploying to Stackato
 
-    stackato push node-chat
+    helion push -n
